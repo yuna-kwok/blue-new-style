@@ -7,7 +7,7 @@
     "blue",
     "theme"
   ],
-  "repository": "https://github.com/yuna-kwok/blue-new-style/branches",
+  "repository": "https://github.com/yuna-kwok/blue-new-style",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
